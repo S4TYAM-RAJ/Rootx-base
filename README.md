@@ -1,0 +1,2 @@
+# Rootx-base
+ROOTX BASE AN WEBSITE FOR TEAM 𓆩ROOTX
