@@ -4,4 +4,4 @@ ROOTX BASE AN WEBSITE/APP FOR TEAM 𓆩ROOTX
  NO NEED TO SPECIFY FEATURES PUT TEAM KNOWS IT WELL
 
 ACCESS WEB
-https://s4tyam-raj.github.io/Rootx
+https://satyam-raj-india.github.io/Rootx
